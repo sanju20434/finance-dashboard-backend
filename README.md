@@ -1,3 +1,5 @@
+## 👨‍💻 Author
+Sandeep Kumar Saini
 # Finance Dashboard — Backend API
 
 Role-based finance management API: users (viewer / analyst / admin), financial records (income & expense), and dashboard aggregates. Built with **Express**, **SQLite (sql.js)**, **JWT**, **bcryptjs**, **Zod**.
